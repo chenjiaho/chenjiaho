@@ -1,5 +1,5 @@
 <!-- 待加功能： 渐变色背景、工具图标 -->
-## Hi,there.I'm lavard~:blush:
+## Hi,there.I'm 陈嘉鸿~:blush:
 **Hi, I'm lcjh, a font-end and full-stack engineer from China.<br />
 哈喽，这里是陈嘉鸿的gayhub主页，一名全栈工程师**
 
