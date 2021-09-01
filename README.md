@@ -1,39 +1,40 @@
-# chenjiahong
+<!-- 待加功能： 渐变色背景、工具图标 -->
+## Hi,there.I'm lavard~:blush:
+**Hi, I'm lavard, a font-end and full-stack engineer from China.<br />
+哈喽，这里是来自拉夫德鲁的码农的gayhub主页，一名全栈工程师**
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+## TAGS
+![](https://forthebadge.com/images/badges/built-with-love.svg)
+![](https://forthebadge.com/images/badges/uses-html.svg)
+![](https://forthebadge.com/images/badges/made-with-javascript.svg)
+![](https://forthebadge.com/images/badges/contains-cat-gifs.svg)
+![](https://forthebadge.com/images/badges/powered-by-electricity.svg)
+![](https://forthebadge.com/images/badges/makes-people-smile.svg)
 
-#### 软件架构
-软件架构说明
+## MY STATS and Languages
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalalavard&show_icons=true&theme=graywhite)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalalavard&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+## MY Repo
+<!-- 对齐 Repo 卡片 -->
+< a href=" ">
+  < img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lalalavard&repo=spirit" />
+</ a>
+< a href="https://github.com/lalalavard/lalalavard.github.io">
+  < img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lalalavard&repo=lalalavard.github.io" />
+</ a>
+< a href="https://github.com/lalalavard/Cloudreve">
+  < img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lalalavard&repo=Cloudreve" />
+</ a>
+< a href="https://github.com/lalalavard/HyPlayer">
+  < img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lalalavard&repo=HyPlayer" />
+</ a>
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## MY Situation
+- 🔭 I’m currently working on [Vue]() and [uni-app]() development;
+- 🌱 I’m currently learning [PHP]() and [golang](https://github.com/golang/go);
+-  I’m looking for collaborators on [996icu](https://github.com/996icu/996.ICU);
+- 💬 Ask me about anything tech related, I am happy to help;
+-  It's OK to reach me through the email on this page;
+-  Fun fact: I like rebasing and `--force` pushing my commits 
+< img src="https://view.moe
